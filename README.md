@@ -1,6 +1,9 @@
 # Notes on Fraud detection and explainable AI
 
-## Articles, Reports
+## Books
+- Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar https://christophm.github.io/interpretable-ml-book/
+
+## Articles, Reports, Books
 - https://www.darpa.mil/program/explainable-artificial-intelligence
 
 - NTNU AI Lab project - EXAIGON: New project on explainable artificial intelligence - https://www.ntnu.edu/ailab/news
