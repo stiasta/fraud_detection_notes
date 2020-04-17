@@ -16,7 +16,7 @@
 
 ## Live events
 
-- 14. Mai Kl. 09:00–10:30 Tekna: Forklarbar Kunstig intelligens https://www.tekna.no/kurs/forklarbar-kunstig-intelligens--xai-39856/
+- 14.mai.2020 Kl. 09:00–10:30 Tekna: Forklarbar Kunstig intelligens https://www.tekna.no/kurs/forklarbar-kunstig-intelligens--xai-39856/
 
 ## Companies that work in this area
 - https://www.sintef.no/en/explainable-ai/
