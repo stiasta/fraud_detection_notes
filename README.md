@@ -3,6 +3,8 @@
 ## Articles, Reports
 - https://www.darpa.mil/program/explainable-artificial-intelligence
 
+- AI lab project - EXAIGON: New project on explainable artificial intelligence - https://www.ntnu.edu/ailab/news
+
 ## Podcast episodes
 
 - https://twimlai.com/twiml-talk-147-data-innovation-ai-at-capital-one-with-adam-wenchel/
