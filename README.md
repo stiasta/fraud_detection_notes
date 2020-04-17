@@ -3,7 +3,7 @@
 ## Articles, Reports
 - https://www.darpa.mil/program/explainable-artificial-intelligence
 
-- AI lab project - EXAIGON: New project on explainable artificial intelligence - https://www.ntnu.edu/ailab/news
+- NTNU AI Lab project - EXAIGON: New project on explainable artificial intelligence - https://www.ntnu.edu/ailab/news
 
 ## Podcast episodes
 
