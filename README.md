@@ -21,3 +21,6 @@
 ## Companies that work in this area
 - https://www.sintef.no/en/explainable-ai/
 
+## Other sources
+- Kaggle competition https://www.kaggle.com/mlg-ulb/creditcardfraud
+
