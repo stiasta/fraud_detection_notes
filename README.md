@@ -1,12 +1,15 @@
-# Notes on Fraud detection and explainable AI
+# Notes on Fraud Detection and Explainable AI
+## Fraud Detection
+### Articles
+- [Dzomira, Shewangu. (2015). Cyber-banking fraud risk mitigation - Conceptual model. Banks and Bank Systems. 10. 7-14.](https://www.researchgate.net/publication/282281102_Cyber-banking_fraud_risk_mitigation_-_Conceptual_model)
 
+## Explainable AI
 ## Books
-- Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar https://christophm.github.io/interpretable-ml-book/
+- [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar ](https://christophm.github.io/interpretable-ml-book/)
 
 ## Articles, Reports, Books
 - https://www.darpa.mil/program/explainable-artificial-intelligence
-
-- NTNU AI Lab project - EXAIGON: New project on explainable artificial intelligence - https://www.ntnu.edu/ailab/news
+- [NTNU AI Lab project - EXAIGON: New project on explainable artificial intelligence](https://www.ntnu.edu/ailab/news)
 
 ## Podcast episodes
 
