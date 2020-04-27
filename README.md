@@ -1,7 +1,18 @@
 # Notes on Fraud Detection and Explainable AI
 ## Fraud Detection
+_Electronic Fraud_ is classified into two types of categories:
+  - _Direct fraud_
+    - For example: Money laundering, Salami technique, Employee embezzlement
+    
+  - _Indirect fraud_
+    - For example: malware, phishing, identity theft
+
+### Resources
 ### Articles
 - [Dzomira, Shewangu. (2015). Cyber-banking fraud risk mitigation - Conceptual model. Banks and Bank Systems. 10. 7-14.](https://www.researchgate.net/publication/282281102_Cyber-banking_fraud_risk_mitigation_-_Conceptual_model)
+  - The aims for the article is to:
+    - Critically review the forms of cyber banking fraud risks exposed in the financial sector. 
+    - To propose a cyber-banking fraud risk ma- nagement model. 
 
 ## Explainable AI
 ## Books
