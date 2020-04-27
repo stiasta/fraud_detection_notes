@@ -4,8 +4,21 @@ _Electronic Fraud_ is classified into two types of categories:
   - _Direct fraud_
     - For example: Money laundering, Salami technique, Employee embezzlement
     
+    
   - _Indirect fraud_
     - For example: malware, phishing, identity theft
+    
+### Direct Fraud
+#### Money laundering
+Converting illicit/illegal money into less suspicious money. This is done to conceal the source of where the money comes from. One technique is to transfer money to multiple accounts using complex transactions. 
+
+#### Salami technique
+Transfering a miniscule amount of money from a great amount of customer accounts, using f.ex. insiders in a bank.
+
+### Indirect Fraud 
+#### Identity theft
+Someone gains access to personal information to further gain access to services in for example banks.
+
 
 ### Resources
 ### Articles
