@@ -28,12 +28,22 @@ Someone gains access to personal information to further gain access to services 
     - To propose a cyber-banking fraud risk ma- nagement model. 
 
 ## Explainable AI
+
+## Unsorted
+- Chap values
+- Lime 
+- Mutual information (NN)
+
 ## Books
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar ](https://christophm.github.io/interpretable-ml-book/)
 
 ## Articles, Reports, Books
 - https://www.darpa.mil/program/explainable-artificial-intelligence
 - [NTNU AI Lab project - EXAIGON: New project on explainable artificial intelligence](https://www.ntnu.edu/ailab/news)
+
+## Tools
+- [Captum - Model Interpretability for PyTorch](https://captum.ai/)
+- 
 
 ## Podcast episodes
 
