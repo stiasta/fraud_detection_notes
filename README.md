@@ -26,6 +26,7 @@ Someone gains access to personal information to further gain access to services 
   - The aims for the article is to:
     - Critically review the forms of cyber banking fraud risks exposed in the financial sector. 
     - To propose a cyber-banking fraud risk ma- nagement model. 
+ - [Application of Credit Card Fraud Detection: Based on Bagging Ensemble Classifier](https://www.sciencedirect.com/science/article/pii/S1877050915007103)
 
 ## Explainable AI
 
@@ -60,4 +61,10 @@ Someone gains access to personal information to further gain access to services 
 
 ## Other sources
 - Kaggle competition https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+## ML Ops
+### Tools 
+- [MLFlow](https://mlflow.org/)
+- [Pachyderm](https://pachyderm.io/)
+- [Kubeflow](https://www.kubeflow.org/) (Does not support pytorch yet)
 
