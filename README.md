@@ -31,10 +31,28 @@ Someone gains access to personal information to further gain access to services 
 
 ## Explainable AI
 
+### Notes
+#### When
+
+#### Shapley values
+[Wikipedia definition]()
+Rettferdig fordeling av bidrag til prediksjon fra maskinlæringsmodell etter innsatts fra egenskapene (variabler, features)
+-> forklarer avvik fra gjennomsnittet
+-> Sum of shapley values is prediction
+
+#### [Contrafactual explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
+- Can be hard to automatically generate based on a prediction with a big number of features
+
+
+
+#### LIME: Local interpratable model agnostic explenations
+(not recommended by one lecturer -> why?)
+
 ### Unsorted
-- Chap values
+- Shapley values
 - Lime 
 - Mutual information (NN)
+- Kontrafaktisk forklaring
 
 ### Books
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar ](https://christophm.github.io/interpretable-ml-book/)
