@@ -32,18 +32,14 @@ Someone gains access to personal information to further gain access to services 
 ## Explainable AI
 
 ### Notes
-#### When
 
 #### Shapley values
-[Wikipedia definition]()
+[Wikipedia definition](https://en.wikipedia.org/wiki/Shapley_value)
 Rettferdig fordeling av bidrag til prediksjon fra maskinlæringsmodell etter innsatts fra egenskapene (variabler, features)
--> forklarer avvik fra gjennomsnittet
--> Sum of shapley values is prediction
+-> Explains deviation from the average for given feature
 
 #### [Contrafactual explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
-- Can be hard to automatically generate based on a prediction with a big number of features
-
-
+- Can be hard to automatically generate based on one specific prediction with a big number of features.
 
 #### LIME: Local interpratable model agnostic explenations
 (not recommended by one lecturer -> why?)
@@ -63,7 +59,6 @@ Rettferdig fordeling av bidrag til prediksjon fra maskinlæringsmodell etter inn
 
 ### Tools
 - [Captum - Model Interpretability for PyTorch](https://captum.ai/)
-- 
 
 ### Podcast episodes
 
@@ -77,6 +72,7 @@ Rettferdig fordeling av bidrag til prediksjon fra maskinlæringsmodell etter inn
 
 ### Companies that work in this area
 - https://www.sintef.no/en/explainable-ai/
+- AI Lab is ramping up their research in this area.
 
 ### Other sources
 - Kaggle competition https://www.kaggle.com/mlg-ulb/creditcardfraud
