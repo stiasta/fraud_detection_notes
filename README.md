@@ -56,6 +56,7 @@ Rettferdig fordeling av bidrag til prediksjon fra maskinlæringsmodell etter inn
 ### Articles, Reports, Books
 - https://www.darpa.mil/program/explainable-artificial-intelligence
 - [NTNU AI Lab project - EXAIGON: New project on explainable artificial intelligence](https://www.ntnu.edu/ailab/news)
+- [COUNTERFACTUAL EXPLANATIONS WITHOUT OPENING THE BLACK BOX: AUTOMATED DECISIONS AND THE GDPR(https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
 
 ### Tools
 - [Captum - Model Interpretability for PyTorch](https://captum.ai/)
