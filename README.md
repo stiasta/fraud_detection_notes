@@ -69,6 +69,7 @@ Rettferdig fordeling av bidrag til prediksjon fra maskinlæringsmodell etter inn
 ### Live events
 
 - 14.mai.2020 Kl. 09:00–10:30 Tekna: Forklarbar Kunstig intelligens https://www.tekna.no/kurs/forklarbar-kunstig-intelligens--xai-39856/
+  - [Link to stream](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2f_%23%2fl%2fmeetup-join%2f19%3ameeting_ZGQ0NjU3OWYtMmY0Mi00Y2YwLWE0N2MtOWNmOWE4NDRmZjNm%40thread.v2%2f0%3fcontext%3d%257b%2522Tid%2522%253a%2522780b750e-d3a7-4fd6-9b5e-174dc7b56d9c%2522%252c%2522Oid%2522%253a%25228c17fadc-e4e9-46de-b04d-3106fc317f3e%2522%252c%2522IsBroadcastMeeting%2522%253atrue%257d%26anon%3dtrue&type=meetup-join&deeplinkId=b0e8aec6-a818-42d7-b875-fbcd08eb8c74&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true). The stream might be unavailable later.
 
 ### Companies that work in this area
 - https://www.sintef.no/en/explainable-ai/
