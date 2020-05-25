@@ -59,9 +59,12 @@ Rettferdig fordeling av bidrag til prediksjon fra maskinlæringsmodell etter inn
 - [COUNTERFACTUAL EXPLANATIONS WITHOUT OPENING THE BLACK BOX: AUTOMATED DECISIONS AND THE GDPR](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
 - ["Why Should I Trust You?": Explaining the Predictions of Any Classifier
 ](https://arxiv.org/abs/1602.04938)
+- [Open-source library provides explanation for machine learning through diverse counterfactuals
+](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
 
 ### Tools
 - [Captum - Model Interpretability for PyTorch](https://captum.ai/)
+- [Interpret Community SDK](https://github.com/interpretml/interpret-community#models)
 
 ### Podcast episodes
 
