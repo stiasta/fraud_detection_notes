@@ -68,10 +68,10 @@ Rettferdig fordeling av bidrag til prediksjon fra maskinlæringsmodell etter inn
 
 ### Podcast episodes
 
-- https://twimlai.com/twiml-talk-147-data-innovation-ai-at-capital-one-with-adam-wenchel/
-- https://twimlai.com/twiml-talk-73-exploring-black-box-predictions-sam-ritchie/
-- https://twimlai.com/twiml-talk-60-fighting-fraud-machine-learning-shopify-solmaz-shahalizadeh/
-- [Black boxes are not required](https://dataskeptic.com/blog/episodes/2020/black-boxes-are-not-required)
+- [TwiML: Data Innovation & AI at Capital One](https://twimlai.com/twiml-talk-147-data-innovation-ai-at-capital-one-with-adam-wenchel/)
+- [TwiML: Explaining Black Box Predictions](https://twimlai.com/twiml-talk-73-exploring-black-box-predictions-sam-ritchie/)
+- [TwiML: Fighting Fraud with Machine Learning at Shopify](https://twimlai.com/twiml-talk-60-fighting-fraud-machine-learning-shopify-solmaz-shahalizadeh)
+- [Data Skeptic: Black boxes are not required](https://dataskeptic.com/blog/episodes/2020/black-boxes-are-not-required)
 
 ### Live events
 
